@@ -3,6 +3,10 @@
 Ferramenta em Python para diagnosticar redes: abre um menu, executa testes, aponta problemas
 com evidência e gera relatório técnico. Funciona em **Windows e Linux**, no PC ou **direto do pendrive**.
 
+
+<img width="1256" height="444" alt="Captura_de_tela_20261104_093212" src="https://github.com/user-attachments/assets/f82a19de-01e4-44c1-abc2-311b7bd8317b" />
+
+
 ## Como executar
 
 ```bash
@@ -94,7 +98,4 @@ reports/                relatórios e history.json
 tests/                  testes automatizados
 ```
 
-## Próximas etapas
 
-- **V2**: Scapy opcional (ARP ativo, IP duplicado), análise de serviços mais profunda, comparação entre execuções.
-- **V3**: PDF, dashboard, build do .exe e pacote pendrive validados em Windows.
